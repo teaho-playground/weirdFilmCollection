@@ -103,6 +103,7 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+# 免费爬虫代理服务器池
 IPPOOL=[
     {"ipaddr":"114.227.87.125:808"},
     {"ipaddr":"60.255.230.185:808"},
